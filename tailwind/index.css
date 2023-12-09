@@ -1,0 +1,52 @@
+.any{
+    width: 4px; /* w-1 */
+    height: 4px;
+    background-color: red;
+}
+body{
+    background-image: url('./gradientbg.png');
+    background-size: contain;
+    opacity: 0.97;
+}
+
+/* x { left and right} */
+/* y { top and bottom } */
+
+/* t-top */
+/* r-right */
+/* l-left */
+/* b-bottom */
+
+/* m-margin */
+/* p-padding */
+/* w-width */
+/* h-height */
+
+
+
+
+xs
+sm
+md
+lg
+xl
+
+
+
+/* m-4 */
+/* mt-1 */
+/* mb-2 */
+/* mx-4 */
+/* my-4 */
+
+/* p-4 */
+/* pt-1 */
+/* pb-2 */
+/* px-4 */
+/* py-4 */
+
+.t{
+    margin-top: 30 40 ; 
+}
+
+/* 4px = 1 in tailwind */
